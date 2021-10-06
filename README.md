@@ -16,3 +16,4 @@ HarvardX CS50's Introduction to Computer Science
    - [Scrabble](https://github.com/Chesh1M/CS50/blob/main/Week%202/Lab%201/scrabble.c)
  - [Problem set 1](https://github.com/Chesh1M/CS50/tree/main/Week%201/Problem%20Set%201)
    - [Readability](https://github.com/Chesh1M/CS50/blob/main/Week%202/Problem%20Set%201/readability.c)
+   - [Caesar](https://github.com/Chesh1M/CS50/blob/main/Week%202/Problem%20Set%201/caesar.c)
